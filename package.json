@@ -1,5 +1,5 @@
 {
-    "name": "easymde",
+    "name": "@ppodds/easymde",
     "version": "2.18.0",
     "description": "A simple, beautiful, and embeddable JavaScript Markdown editor that easy to use. Features include autosaving and spell checking.",
     "files": [
@@ -42,7 +42,7 @@
         "vinyl-buffer": "^1.0.1",
         "vinyl-source-stream": "^2.0.0"
     },
-    "repository": "github:Ionaru/easy-markdown-editor",
+    "repository": "github:ppodds/easy-markdown-editor",
     "scripts": {
         "prepare": "gulp",
         "test": "npm run lint && npm run test:types && npm run e2e",
